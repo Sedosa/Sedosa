@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sedosa
+- 👀 I’m interested in Data, ML & MLOps
+- 🌱 I’m always learning, currently focused on the cloud
+- 💞️ I’m looking to collaborate on Python porjects with a Data Science flavour
+- 📫 How to reach me ...
