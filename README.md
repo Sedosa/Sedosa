@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I’m Alastair! </h2>
+<h2 align="center"> Hi, I’m Alastair! 👋 </h2>
 <br/>
 
 
@@ -16,7 +16,7 @@
 <p align = "center">
 <a href="https://www.linkedin.com/in/alastairdjames/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>&nbsp
 </p>
-<hr>
+
 
 <h2 align="center"> Languages</h2>
 <p align = "center">
@@ -44,7 +44,6 @@
 <img alt="PostGRESQL"  style = "padding: 0 10px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MS SQL Server"  style = "padding: 0 10px;" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
-<br/>
 <br/>
 
 
