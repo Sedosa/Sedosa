@@ -8,7 +8,6 @@
 <li> 👀 I’m interested in Data, ML & MLOps </li>
 <li> 🌱 I’m always learning, currently focused on the cloud </li> 
 <li> 💞️ I’m looking to collaborate on Python projects with a Data Science flavour </li> 
-<li> 📫 2021 Goal: Get a Cloud ML certification</li> 
 </ul>
 </p>
 
