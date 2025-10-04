@@ -5,9 +5,10 @@
 <h2 align="center"> About me </h2>
 <p>
 <ul style="text-align: center; list-style-position: inside;">
+<li> 🧑‍💻 I'm an ML/AI Engineer building platforms that leverage AI to empower people and organisations. </li> 
 <li> 👀 I’m interested in Data, ML & MLOps </li>
-<li> 🌱 I’m always learning, currently focused on the cloud </li> 
-<li> 💞️ I’m looking to collaborate on Python projects with a Data Science flavour </li> 
+<li> 📚 Exploring the latest in GenAI, MLOps, and AI infrastructure patterns </li> 
+<li> 💞️ I’m looking to collaborate on Python projects with an Agentic flavour </li> 
 </ul>
 </p>
 
